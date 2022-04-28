@@ -1,0 +1,5 @@
+### endpoint that does some task or hash computation
+GET  http://localhost:3000/
+
+### endpoint that does not do any intensive tasks and respond ASAP.
+GET  http://localhost:3000/fast
